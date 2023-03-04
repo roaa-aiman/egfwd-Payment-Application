@@ -1,0 +1,17 @@
+﻿  card.c
+F:\embedded course\FWD\Project3\Project3\card.c(14,3): warning C4013: 'gets' undefined; assuming extern returning int
+F:\embedded course\FWD\Project3\Project3\card.c(17,14): warning C4013: 'strlen' undefined; assuming extern returning int
+  terminal.c
+F:\embedded course\FWD\Project3\Project3\terminal.c(13,3): warning C4013: 'gets' undefined; assuming extern returning int
+F:\embedded course\FWD\Project3\Project3\terminal.c(19,14): warning C4013: 'strlen' undefined; assuming extern returning int
+  Generating Code...
+F:\embedded course\FWD\Project3\Project3\terminal.c(82): warning C4715: 'getTransactionAmount': not all control paths return a value
+F:\embedded course\FWD\Project3\Project3\terminal.c(119): warning C4715: 'isBelowMaxAmount': not all control paths return a value
+F:\embedded course\FWD\Project3\Project3\terminal.c(66): warning C4715: 'isCardExpired': not all control paths return a value
+F:\embedded course\FWD\Project3\Project3\terminal.c(41): warning C4715: 'getTransactionDate': not all control paths return a value
+F:\embedded course\FWD\Project3\Project3\terminal.c(103): warning C4715: 'setMaxAmount': not all control paths return a value
+F:\embedded course\FWD\Project3\Project3\terminal.c(145): warning C4715: 'isValidCardPAN': not all control paths return a value
+F:\embedded course\FWD\Project3\Project3\card.c(38): warning C4715: 'getCardHolderName': not all control paths return a value
+F:\embedded course\FWD\Project3\Project3\card.c(112): warning C4715: 'getCardPAN': not all control paths return a value
+F:\embedded course\FWD\Project3\Project3\card.c(75): warning C4715: 'getCardExpiryDate': not all control paths return a value
+  Project3.vcxproj -> F:\embedded course\FWD\Project3\x64\Debug\Project3.exe
